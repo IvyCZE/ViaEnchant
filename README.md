@@ -1,7 +1,7 @@
 # ViaEnchant
 
-Shows 1.8+ enchanting tooltips for MC 1.7.x when joined to a 1.8+ server with ViaProxy.
-Not affiliated with ViaVersion.
+Shows tooltips for enchanting options on MC 1.7.x when joined to a 1.8+ server through ViaProxy.
+- Not affiliated with ViaVersion.
 
 ![Enchanting table tooltip showing "Fire Aspect I . . . ?" on a 1.7.10 client](viaenchant.png)
 
