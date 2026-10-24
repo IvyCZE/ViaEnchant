@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Shows the 1.8 enchanting table hints (one of the enchantments of each option) on a 1.7.10 client. Needs the ViaEnchant ViaProxy plugin.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://ivy.yt",
+		"updateUrl": "",
+		"authorList": ["https://ivy.yt"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}

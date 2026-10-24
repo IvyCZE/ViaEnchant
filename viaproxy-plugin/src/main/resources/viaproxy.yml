@@ -1,0 +1,4 @@
+name: ViaEnchant
+author: https://ivy.yt
+version: ${version}
+main: yt.ivy.viaenchant.ViaEnchantPlugin
