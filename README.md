@@ -57,7 +57,5 @@ Copyright (C) 2026 https://ivy.yt
 
 Licensed under the [GPL-3.0](LICENSE).
 
-
-
-Made with the help of Claude.
 ## By https://ivy.yt
+Made with the help of Claude.
